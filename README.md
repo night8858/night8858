@@ -1,9 +1,17 @@
 ## HAHAHA！I'm KnightWang, Just a wild tech enthusiast.   ⚡⚡⚡
 
 主页还在施工ing
+- [![qq](https://img.shields.io/badge/qq-1007618434-red.svg "qq")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "qq")
+
+## 开源项目(open source project)
+  目前只有零碎代码垃圾，无重大项目 😄
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=night8858)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=night8858)](https://github.com/anuraghazra/github-readme-stats)  
+
+- - -
+
+  ✨*Where there's a will, there's a way*✨
 <!--
 **night8858/night8858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 Technical stack [ 技术栈 ]

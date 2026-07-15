@@ -15,7 +15,7 @@ Building practical robot systems from perception and inference to motion control
 
 ## 关于我
 
-- 🤖 在 **TOE 团队**项目中担任主要负责人，负责机器人方案设计、核心开发和系统集成。
+- 🤖 曾在 **ROBOCON**竞赛中担任主要负责人，负责机器人方案设计、核心开发和系统集成。
 - 👁️ 聚焦机器人感知与视觉推理，实践多相机采集、目标检测、OCR 和边缘端部署。
 - ⚙️ 持续投入 STM32、FreeRTOS、机械臂通信与末端执行器控制。
 - 🚀 目前主要完善基于 ROS2 的机器狗视觉与机械臂系统，以及吸盘夹爪控制方案。
